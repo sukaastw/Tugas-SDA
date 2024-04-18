@@ -63,3 +63,7 @@ int main()
     show(arr, size);
     return 0;
 }
+Nama Kelompok:
+I Putu Aksama Putra
+Komang Verdi Prajna
+I Made Suka Astawa
